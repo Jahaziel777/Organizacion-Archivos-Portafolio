@@ -1,12 +1,16 @@
 # Organizacion-Archivos-Portfolio
 
-# Portafolio de Arquitectura y Organización de Archivos - Semestre 2026
+# Portafolio de Administracion y Organización de Datos - Semestre 2026
 
 ## Perfil del Alumno
 
 *Nombre:* Jahaziel Isai Fraire olivares
 
+*Numero de control:* 242310878
+
 *Carrera:* Ingeniería Informática
+
+*Semestre:* 4°
 
 *Institución:* Instituto Tecnológico Superior de Lerdo
 
