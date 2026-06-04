@@ -16,7 +16,7 @@
 
 | Proyecto                                           | Tecnologías | Formatos de Archivo | Enlace Directo |
 |----------------------------------------------------|-----------  |---------------------|----------------|
-| Actividad de Evaluación Corte 1 (Puente de Datos)  | Python      | JSON                |                                     |
+| Actividad de Evaluación Corte 1 (Puente de Datos)  | Python      | JSON                |        https://github.com/Jahaziel777/Organizacion-Archivos-Portafolio/tree/main/organizacion-archivos-portafolio/Actividad%20de%20Evaluacion%20Corte%201%20(data-bridge)                             |
 | Actividad de evaluación – ABPj - Control de acceso | Python      | TXT                 | o                 |
 | Actividad integradora de evaluación_C3             | Python      | CSV                 |                                                |
 | Proyecto Evaluación general de OA                  | Python      | JSON                |                                     |
