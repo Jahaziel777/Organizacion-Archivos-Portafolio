@@ -19,7 +19,7 @@
 | Actividad de Evaluación Corte 1 (Puente de Datos)  | Python      | TXT y CSS                | https://github.com/Jahaziel777/Organizacion-Archivos-Portafolio/tree/main/organizacion-archivos-portafolio/Actividad%20de%20Evaluacion%20Corte%201%20(data-bridge)                             |
 | Actividad de evaluación – ABPj - Control de acceso | Python      | TXT y JSON                 | https://github.com/Jahaziel777/Organizacion-Archivos-Portafolio/tree/main/organizacion-archivos-portafolio/Actividad%20de%20evaluacion-ABPj-Control%20de%20acceso                 |
 | Actividad integradora de evaluación_C3             | Python      | XLS                | https://github.com/Jahaziel777/Organizacion-Archivos-Portafolio/tree/main/organizacion-archivos-portafolio/Actividad%20integradora%20de%20evaluacion_C3                                               |
-| Proyecto Evaluación general de OA                  | Python, pandas, matlolib, random, datatime, tabular, OS      | JSON y CSV                 |                                     |
+| Proyecto Evaluación general de OA                  | Python, pandas, matlolib, random, datatime, tabular, OS      | JSON y CSV                 | https://github.com/Jahaziel777/Organizacion-Archivos-Portafolio/tree/main/organizacion-archivos-portafolio/Proyecto%20Evaluacion%20Evaluacion%20general%20de%20OA                                    |
 ---
 
 ## Descripción General
