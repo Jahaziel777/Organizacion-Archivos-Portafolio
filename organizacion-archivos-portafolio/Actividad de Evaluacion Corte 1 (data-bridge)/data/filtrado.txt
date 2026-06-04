@@ -1,0 +1,2 @@
+ID|Mesa|Mesero|Platillo|Cantidad|PrecioUnitario|Total|Hora
+001|2|Torres|Tacos|3|25|75|15:05
