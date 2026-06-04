@@ -63,3 +63,4 @@ Descargar los resultados obtenidos en formato TXT.
 ## Documentación
 
 La documentación técnica completa incluye la descripción detallada de cada módulo del sistema, el funcionamiento de los archivos utilizados y la explicación del procesamiento de datos. Esta documentación puede encontrarse en la carpeta docs o en el reporte técnico del proyecto.
+
